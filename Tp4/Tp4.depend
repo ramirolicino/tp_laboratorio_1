@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1625437547 source:c:\users\rama\desktop\u t n\1° año\programacion\tps-codeblock\tp4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625017129 c:\users\rama\desktop\u t n\1° año\programacion\tps-codeblock\tp4\linkedlist.h
+
+1625506246 source:c:\users\rama\desktop\u t n\1° año\programacion\tps-codeblock\tp4\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1624041582 c:\users\rama\desktop\u t n\1° año\programacion\tps-codeblock\tp4\menu.h
+
+1625504478 source:c:\users\rama\desktop\u t n\1° año\programacion\tps-codeblock\tp4\parser.c
+	<stdlib.h>
+	"parser.h"
+	"LinkedList.h"
+	"autos.h"
+
+1625504435 c:\users\rama\desktop\u t n\1° año\programacion\tps-codeblock\tp4\parser.h
+	"LinkedList.h"
+	<stdio.h>
+
+1625467637 c:\users\rama\desktop\u t n\1° año\programacion\tps-codeblock\tp4\autos.h
+	"LinkedList.h"
+
+1625504679 source:c:\users\rama\desktop\u t n\1° año\programacion\tps-codeblock\tp4\validar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validar.h"
+
+1625504766 c:\users\rama\desktop\u t n\1° año\programacion\tps-codeblock\tp4\validar.h
+
+1625503749 source:c:\users\rama\desktop\u t n\1° año\programacion\tps-codeblock\tp4\autos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"autos.h"
+
+1625506635 source:c:\users\rama\desktop\u t n\1° año\programacion\tps-codeblock\tp4\controller.c
+	<stdlib.h>
+	<stdio.h>
+	"controller.h"
+	"parser.h"
+	"autos.h"
+	"validar.h"
+	"menu.h"
+
+1625503268 c:\users\rama\desktop\u t n\1° año\programacion\tps-codeblock\tp4\controller.h
+	"LinkedList.h"
+
+1625506246 source:c:\users\rama\desktop\u t n\1° año\programacion\tps-codeblock\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"controller.h"
+	"menu.h"
+	"autos.h"
+	"validar.h"
+
