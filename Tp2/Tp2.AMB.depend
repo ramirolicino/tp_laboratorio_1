@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1621111968 source:c:\users\rama\desktop\u t n\1° año\programacion\tps-nuevos\tp2\tp2.amb\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+	"menu.h"
+
+1621112759 c:\users\rama\desktop\u t n\1° año\programacion\tps-nuevos\tp2\tp2.amb\arrayemployees.h
+
+1621111968 source:c:\users\rama\desktop\u t n\1° año\programacion\tps-nuevos\tp2\tp2.amb\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+	"menu.h"
+
+1621112871 c:\users\rama\desktop\u t n\1° año\programacion\tps-nuevos\tp2\tp2.amb\menu.h
+
+1621111968 source:c:\users\rama\desktop\u t n\1° año\programacion\tps-nuevos\tp2\tp2.amb\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+	"menu.h"
+
+1626307445 source:c:\users\rama\desktop\u t n\1° año\programacion\tps-codeblock\tp2\arrayemployees.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"menu.h"
+	"validar.h"
+
+1621112759 c:\users\rama\desktop\u t n\1° año\programacion\tps-codeblock\tp2\arrayemployees.h
+
+1621112871 c:\users\rama\desktop\u t n\1° año\programacion\tps-codeblock\tp2\menu.h
+
+1621111968 source:c:\users\rama\desktop\u t n\1° año\programacion\tps-codeblock\tp2\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+	"menu.h"
+
+1626307296 source:c:\users\rama\desktop\u t n\1° año\programacion\tps-codeblock\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+	"menu.h"
+	"validar.h"
+
+1626301891 source:c:\users\rama\desktop\u t n\1° año\programacion\tps-codeblock\tp2\validar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validar.h"
+
+1626301060 c:\users\rama\desktop\u t n\1° año\programacion\tps-codeblock\tp2\validar.h
+
